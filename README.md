@@ -1,5 +1,5 @@
 # Automatic Number Plate Recognition(ANPR)
-## A streamlit based implementation of Automatic Number Plate Recognition for cars and other vehicles using images or live camera feed
+#### A streamlit based implementation of Automatic Number Plate Recognition for cars and other vehicles using images or live camera feed
 
 ## Project Overview
 Automatic vehicle license plate detection and recognition is a key technique in most
@@ -13,7 +13,7 @@ developed for license plate detection and recognition.
 --------------
 ### To Build this project
 ```
-git clone 
+git clone https://github.com/Utkarsh2108/Automatic-Number-Plate-Recognition.git
 ```
 #### create virtual enviroment use `python 3.8`
 ```
