@@ -36,7 +36,6 @@ python app.py
 
 | **Output Images**  | **Output Images**  |
 |---------------------|-----------------------|
-| ![pic1](downloads/output_Cars18.png)  | ![pic1](downloads/output_Cars23.png)  |
 | ![pic2](downloads/output_Cars65.png)  | ![pic2](downloads/output_Cars78.png)  |
 | ![pic3](downloads/output_Cars72.png)  | ![pic3](downloads/output_Cars9.png)  |
 
