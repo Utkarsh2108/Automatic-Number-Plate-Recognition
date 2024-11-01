@@ -1,6 +1,5 @@
 # Automatic Number Plate Recognition(ANPR)
 ## A streamlit based implementation of Automatic Number Plate Recognition for cars and other vehicles using images or live camera feed
---------------
 
 ## Project Overview
 Automatic vehicle license plate detection and recognition is a key technique in most
