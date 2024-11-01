@@ -9,7 +9,7 @@ developed for license plate detection and recognition.
 
 ### Dataset
 - **Dataset Link:** [Car License Plate Detection](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
-
+  
 --------------
 ### To Build this project
 ```
@@ -39,6 +39,7 @@ python app.py
 | ![pic2](downloads/output_Cars65.png)  | ![pic2](downloads/output_Cars78.png)  |
 | ![pic3](downloads/output_Cars72.png)  | ![pic3](downloads/output_Cars9.png)  |
 
+--------------
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
 2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
